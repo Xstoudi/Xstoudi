@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=Xstoudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/Xstoudi/Xstoudi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Xstoudi/Xstoudi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **Xstoudi/Xstoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
