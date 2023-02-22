@@ -1,19 +1,27 @@
-### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xstoudi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">Hi 👋, I'm Xavier Stouder</h1>
+<h3 align="center">Software engineer from Switzerland 🇨🇭</h3>
+<br />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Xstoudi/Xstoudi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Xstoudi/Xstoudi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">
+    🔭 I’m currently working on <a href="https://hydra.stouder.io/">Hydra</a><br />
+    🎓 I’m finishing my Bachelor's degree in Computer Science<br />
+    🔥 I enjoy and contribute to FOSS<br />
+    📫 You can reach me at <a href="mailto://xavier@stouder.io">xavier@stouder.io</a><br />
+</p>
 
-<!--
-**Xstoudi/Xstoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Stats</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xstoudi&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en" alt="xstoudi" /></p>
+<br />
 
-Here are some ideas to get you started:
+<h2 align="center">Trophies</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xstoudi&theme=tokyonight" alt="xstoudi" /></a> </p>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="center">Connect with me</h2>
+<p align="center">
+<a href="https://linkedin.com/in/xavier-stouder" target="blank"><img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/linkedin.svg" alt="Xavier Stouder linked profile link" height="50" width="50" /></a>
+<a href="https://tooting.ch/@xavier" target="blank"><img align="center" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/main/assets/mastodon.svg" alt="Xavier Stouder linked profile link" height="50" width="50" /></a>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=xstoudi&label=Profile%20views&color=0e75b6&style=flat-square" alt="xstoudi" /> </p>
