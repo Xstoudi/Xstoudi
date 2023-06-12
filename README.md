@@ -10,11 +10,11 @@
 </p>
 
 <h2 align="center">Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xstoudi&include_all_commits=true&show_icons=true&theme=tokyonight&locale=en" alt="xstoudi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xstoudi&include_all_commits=true&show_icons=true&theme=flat&locale=en" alt="xstoudi" /></p>
 <br />
 
 <h2 align="center">Trophies</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xstoudi&theme=tokyonight" alt="xstoudi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xstoudi&theme=flat" alt="xstoudi" /></a> </p>
 <br />
 
 
