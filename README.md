@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-    🔭 I’m currently working on <a href="https://hydra.stouder.io/">Hydra</a><br />
+    🔭 I’m currently working on <a href="https://github.com/zakodium-oss/pixelium">Pixelium</a> and <a href="https://hydra.stouder.io/">Hydra</a><br />
     🎓 I’m finishing my Bachelor's degree in Computer Science<br />
     🔥 I enjoy and contribute to FOSS<br />
     📫 You can reach me at <a href="mailto://xavier@stouder.io">xavier@stouder.io</a><br />
